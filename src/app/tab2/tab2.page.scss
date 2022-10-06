@@ -1,4 +1,27 @@
-.bt2{
-
+.bt2 {
+  height: 85px;
+  font-size: 22px;
+  margin: 0;
 
 }
+
+.bt {
+  height: 50px;
+  width: 50px;
+  font-size: 15px;
+  margin: 0;
+}
+
+ion-row {
+  * {
+    width: 100%;
+  }
+}
+
+ion-col {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+
